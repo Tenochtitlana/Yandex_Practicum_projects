@@ -25,9 +25,12 @@
 <details>
 <summary> Вёрстка панели "Выбор тарифа"</summary>  
  <br>  
-&nbsp; &nbsp; &nbsp; #ffffff T1	В стартовом состоянии выбран тариф "Повседневный"<br>
-  <span style="color: green"> Some green text </span>
-
+&nbsp; &nbsp; &nbsp; T1	В стартовом состоянии выбран тариф "Повседневный"<br>
+  <style>
+  body {
+    color: red;
+  }
+</style>
 &nbsp; &nbsp; &nbsp; Т2	Для выбора доступно три тарифа: "Повседневный", "Походный", "Роскошный"<br>
 &nbsp; &nbsp; &nbsp; Т3	Один из тарифов всегда выбран<br>
 &nbsp; &nbsp; &nbsp; Т4	Выбрать можно только один тариф<br>
