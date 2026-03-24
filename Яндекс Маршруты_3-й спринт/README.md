@@ -1,6 +1,21 @@
 ## Описание проекта
 Этот проект является расширенной версией проекта Яндекс Маршруты и включает в себя следующие цели:<br>
 
+none	\text	$\text{lorem ipsum}$	
+lorem ipsum
+\rm	\textrm	$\textrm{lorem ipsum}$	
+lorem ipsum
+\sf	\textsf	$\textsf{lorem ipsum}$	
+lorem ipsum
+\bf	\textbf	$\textbf{lorem ipsum}$	
+lorem ipsum
+\up	\textup	$\textup{lorem ipsum}$	
+lorem ipsum
+\tt	\texttt	$\texttt{lorem ipsum}$	
+lorem ipsum
+\it	\textit	$\textit{lorem ipsum}$	
+lorem ipsum
+
 🚘 **Каршеринг**
    * Составление тестовой документации
    * Выполнение проверок
